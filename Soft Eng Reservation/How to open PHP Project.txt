@@ -1,0 +1,6 @@
+HOW TO OPEN PROJECT
+
+1. OPEN WAMPSERVER 
+2. INSERT THIS FILE IN Computer-->WAMP-->WWW-->(insert roseum file here)-->done
+3. open browser url http://localhost/roseum/Index.php or simply localhost/roseum/Index.php
+4. Done
